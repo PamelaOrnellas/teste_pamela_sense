@@ -1,6 +1,7 @@
 {
     "chromeWebSecurity": false,
-    "viewportHeight": 660,
-    "viewportWidth": 1000
+    "baseUrl": "https://www.saucedemo.com/"
+  
+
     
 }
