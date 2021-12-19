@@ -30,5 +30,7 @@ describe('Teste', () => {
 
         cy.get('[data-test="finish"]').click();
 
+        return
+
     });
 });
