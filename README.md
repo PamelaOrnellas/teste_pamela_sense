@@ -15,14 +15,7 @@ item 2 Test.allTheThings() T-Shirt (Red)
 
 4- Concluir a compra
 
-Para visualizar o projeto siga as etapas abaixo:
-
-Link para download projeto:
-
-https://github.com/PamelaOrnellas/teste_pamela_sense.git
-
-- Acessar a opção CODE em seGuida a opção Download ZIP
-Após a conclusão do download, descompactar o arquivo na pasta desejada.
+Requisito:
 
 Instalar Cypress:
 
