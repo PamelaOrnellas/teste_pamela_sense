@@ -26,11 +26,6 @@ Após a conclusão do download, descompactar o arquivo na pasta desejada.
 
 Instalar Cypress:
 
-Acessar a pasta onde o projeto foi salvo pelo explorador do Windows e copiar o endereço;
-Abrir o CMD: comando Win+R, digitar CMD na caixa de endereço e apertar OK;
-
-- Digitar o comando: - cd e o endereço da pasta onde o projeto foi salvo selecionar Enter;
-
 - Digitar o comando: npm install cypress --save-dev
 
 Após a instalação, para abrir o cypress digite o comando: npx cypress open
@@ -43,5 +38,8 @@ Ferramentas utilizadas para o teste:
 
 Liguagem utilizada:
 - Java Script
+
+Sistema operacional:
+- Windowns 10
 
 Criado por Pâmela Ornellas
